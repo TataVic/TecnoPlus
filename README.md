@@ -1,5 +1,5 @@
  # TecnoPlus - Loja de eletrônicos
-### Um projeto desenvolvido pela equipe: Bianca C. Netto, Ryhan Clayver F. S. e Tauani V. V. De Grandi. 
+### Um projeto desenvolvido por: Bianca C. Netto, Ryhan Clayver F. S. e Tauani V. V. De Grandi. 
 ---
 Desenvolvimento de um software de gerenciamento de vendas para uma loja de eletrônicos, 
 utilizando Windows Forms em C# e banco de dados MySql. 
